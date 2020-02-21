@@ -2,11 +2,13 @@
   min-height: 100vh;
   background: #333;
   color: #ddd;
+  font-family: 'Montserrat', 'Arial', sans-serif;
 }
 
 .site-title {
   margin: auto;
   text-align: center;
+  font-family: 'Abril Fatface', cursive;
 }
 
 .main-img {
